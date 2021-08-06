@@ -1,3 +1,5 @@
+# my_clang_format
+```
 ---
 Language:        Cpp
 # BasedOnStyle:  LLVM
@@ -139,3 +141,4 @@ SpacesInSquareBrackets: false
 Standard:        Cpp11
 TabWidth:        2
 UseTab:	Never
+```
